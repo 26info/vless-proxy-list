@@ -1,3 +1,4 @@
-vless://9f0eae34-97c1-4c07-8a55-438379981334@104.25.35.114:8080?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.25.35.114:8080
-vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.86.2:80
-vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.64.92.243:80
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#4Jadi-6835
+vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.24.204.237:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2Fddd%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.204.237:80
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?encryption=none&type=raw&headerType=none&security=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ra%5D%20%5B250801-135218.315%5D
+vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?security=none&type=ws&path=/vless/#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
