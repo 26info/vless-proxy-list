@@ -22,7 +22,7 @@
 ## 🛠️ Поддерживаемые приложения
 
 - **Windows:** v2rayN, Clash Verge, Clash for Windows, Qv2ray, V2RayW, SagerNet, Nekoray
-- **macOS:** ClashX, Clash Verge, V2RayU, Qv2ray, v2ray, foxray, Surge, Shadowrocket
+- **macOS:** [VLESS Client macOS](https://github.com/26info/VLESS-Client-macOS), ClashX, Clash Verge, V2RayU, Qv2ray, v2ray, foxray, Surge, Shadowrocket
 - **Linux:** Qv2ray, Clash Verge, v2rayA, Clash for Linux, V2RayL
 - **Android:** V2RayNG, Nekobox, SagerNet, Kitsunebi, AnXray, v2rayGO, Pharos
 - **iOS:** Shadowrocket, Stash, v2ray, foxray, Surge, Loon, Quantumult X, Potatso Lite
