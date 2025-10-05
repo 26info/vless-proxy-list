@@ -1,3 +1,2 @@
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-IL
-vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?security=none&type=ws&path=/vless/#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-179.61.219.170:22934
+vless://4a856224-5aef-408e-8fee-4531490ecf9b@ov-germany4.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ws%5D%20%5B250801-134726.381%5D
+vless://07ccdc51-52f5-47f8-8524-2149ea380063@172.233.20.133:10001?security=reality&encryption=none&pbk=AMz6hSd2yvrcg1cOe2PPSTX1w6pLWlb_UT-uRHoG1BI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=1a24af87#4Nika-5547
