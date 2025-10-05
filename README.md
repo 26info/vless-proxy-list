@@ -19,15 +19,14 @@
 - [`working-proxies.txt`](./working-proxies.txt) - основной файл с VLess конфигурациями
 - Каждая строка содержит полную VLess ссылку в формате: vless://uuid@server:port?type=ws&security=tls&path=/vless#Comment
 
-## 🛠️ Поддерживаемые клиенты
+## 🛠️ Поддерживаемые приложения
 
-- **v2rayN** (Windows)
-- **Clash** (все платформы) 
-- **Nekobox** (Android)
-- **Shadowrocket** (iOS)
-- **V2RayNG** (Android)
-- **Qv2ray** (Linux/macOS/Windows)
-- и другие..
+- **Windows:** v2rayN, Clash Verge, Clash for Windows, Qv2ray, V2RayW, SagerNet, Nekoray
+- **macOS:** ClashX, Clash Verge, V2RayU, Qv2ray, v2ray, foxray, Surge, Shadowrocket
+- **Linux:** Qv2ray, Clash Verge, v2rayA, Clash for Linux, V2RayL
+- **Android:** V2RayNG, Nekobox, SagerNet, Kitsunebi, AnXray, v2rayGO, Pharos
+- **iOS:** Shadowrocket, Stash, v2ray, foxray, Surge, Loon, Quantumult X, Potatso Lite
+- **Кроссплатформенные:** Clash, Clash Verge, Qv2ray
 
 # 🔧 Как использовать VLess
 
