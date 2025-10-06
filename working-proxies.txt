@@ -1,1 +1,2 @@
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp&headerType=none#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B7-Tehran-1010ms-Pars%20Abr%20Toseeh%20Ertebatat%20Company
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#33%F0%9F%8D%AC%40oneclickvpnkeys
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@tr.accesspoints.cloakify.app:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@MoftConfigThe%20NetherlandsAmsterdamping:39.38ms
