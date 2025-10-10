@@ -1,2 +1,2 @@
-vless://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%F0%9F%87%A7%F0%9F%87%B7BR_11486_@Surfboardv2ray
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#4Nika-9676
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.133.63.138:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-1200ms-Global%20Connectivity%20Solutions%20LLP
+vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?security=none&type=ws&path=/vless/#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
