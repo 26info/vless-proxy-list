@@ -1,1 +1,1 @@
-vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?security=none&type=ws&path=/vless/#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-NL
