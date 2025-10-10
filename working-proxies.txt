@@ -1,2 +1,2 @@
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=/vless/&security=none&encryption=none&host=---@NetifyVPN---@NetifyVPN---@NetifyVPN---@NetifyVPN---@NetifyVPN&type=ws#4Sarina-5429
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-179.61.219.170:22934
+vless://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%F0%9F%87%A7%F0%9F%87%B7BR_11486_@Surfboardv2ray
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#4Nika-9676
