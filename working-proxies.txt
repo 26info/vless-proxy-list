@@ -1,3 +1,2 @@
-vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&type=tcp&packetEncoding=xudp&encryption=none#4Nika-14322
-vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&sid=ba2e91d5d7be&type=tcp&flow=xtls-rprx-vision&encryption=none#@V2ray_Collector
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&type=ws&path=/vless/#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AF%F0%9F%87%B5%20JP-5.253.41.223:80
+vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#45.88.183.158
