@@ -1,1 +1,1 @@
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#33%F0%9F%8D%AC%40oneclickvpnkeys
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=/&security=none&encryption=none&type=ws#4Nika-9546
