@@ -1,1 +1,1 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#4Sarina-11373
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=/vless/&security=none&encryption=none&host=---@NetifyVPN---@NetifyVPN---@NetifyVPN---@NetifyVPN---@NetifyVPN&type=ws#4Sarina-5429
